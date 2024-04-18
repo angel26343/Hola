@@ -1,0 +1,1876 @@
+{
+  "vaultName": "Presentaciónes Markdown",
+  "lastExport": 1713467099567,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "006 - 🔗 REFERENCIAS GENERALES/2eb519f89c0152ee9cc6ccc4c789d2c7_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/9a05dd15a6cb368c4c2e78141f175aaa_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/9b646228024bd11833e8a957dcbfa78b_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/54d4d48da35ab9b04c54edab0953e903_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/69aa32646f33d7cb18d6d5f81741357d_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/69ff7d1a193371cf5d0374a07f96b6cf_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/0949c66b3eb6f0117e80a271850be260_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/2292cdc287e247005011c77507cdb262_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/2975e0a0c47d00cecb1b3f3b55c9c4f9_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/5123ae40a31380fa88004a1082d8bd90_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/809806973ea0a9f581a156711ebde934_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/a3b3c29a092d2b7b25dc736881b9cd66_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/a93513776db5882dc749bf16f8eef9c6_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/Advanced Slides-20240201191832573.webp",
+    "006 - 🔗 REFERENCIAS GENERALES/Albert Einstein IA.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_2eb519f89c0152ee9cc6ccc4c789d2c7_MD5.md",
+    "006 - 🔗 REFERENCIAS GENERALES/cropped_69aa32646f33d7cb18d6d5f81741357d_MD5.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Cropped_2eb519f89c0152ee9cc6ccc4c789d2c7_MD5.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_EXPLOSION AZUL ROJO.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Hola.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Imagen Punto 1 Socialización Lección 1 P3.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Isaac Newton IA.md",
+    "006 - 🔗 REFERENCIAS GENERALES/deconstructed.md",
+    "006 - 🔗 REFERENCIAS GENERALES/ExcaliBrain Snapshot - Biblioteca.excalidraw.md",
+    "006 - 🔗 REFERENCIAS GENERALES/EXPLOSION AZUL ROJO.png",
+    "006 - 🔗 REFERENCIAS GENERALES/f9bfcad75efee8fd10eeed52e2cad28e_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/f58f427f4ad5bb43560899b3528c7604_MD5.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/ghfghfgh.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Hola.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/Hola dfhfg.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Imagen Punto 1 Socialización Lección 1 P3.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Isaac Newton IA.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_201.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_296.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_354.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_376.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_391.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_402.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_414.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_429.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_447.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_462.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_483.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_498.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_518.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_544.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_562.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_590.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_609.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_625.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_634.svg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_648.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted image 20240201191855.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted image 20240213172402.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted image 20240227122147.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062126_115.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062526_099.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062557_140.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062630_162.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240305164444_648.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240306085925_808.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240308085738_687.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240308090357_650.jpg",
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240308091931_890.png",
+    "006 - 🔗 REFERENCIAS GENERALES/Recording 20240307082950.webm",
+    "006 - 🔗 REFERENCIAS GENERALES/Sin Titulo.excalidraw.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Sin Titulo_0.excalidraw.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Sin Titulo_1.excalidraw.md",
+    "006 - 🔗 REFERENCIAS GENERALES/Socialización P3 L1-20240206215611272.webp",
+    "006 - 🔗 REFERENCIAS GENERALES/Socialización P3 L1-20240206220354179.webp",
+    "006 - 🔗 REFERENCIAS GENERALES/Socialización P3 L1-20240206220411570.webp",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.svg",
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md",
+    "Excalidraw/Scripts/Downloaded/Darken background color.svg",
+    "Excalidraw/Scripts/Downloaded/Darken background color.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md",
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.svg",
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md",
+    "Excalidraw/Scripts/Downloaded/Golden Ratio.svg",
+    "Excalidraw/Scripts/Downloaded/Golden Ratio.md",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.md",
+    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
+    "Excalidraw/Scripts/Downloaded/Rename Image.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Texts.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Texts.md",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.svg",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
+    "Excalidraw/Scripts/Downloaded/Select Similar Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Select Similar Elements.md",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.md",
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.svg",
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.md",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
+    "Excalidraw/Scripts/Downloaded/Split text by lines.md",
+    "Excalidraw/Scripts/Downloaded/Text Arch.svg",
+    "Excalidraw/Scripts/Downloaded/Text Arch.md",
+    "Excalidraw/Scripts/Downloaded/Text Aura.svg",
+    "Excalidraw/Scripts/Downloaded/Text Aura.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
+    "Advanced Slides.md",
+    "excalibrain.md",
+    "Hijo 1.md",
+    "Padre.md",
+    "Sin título.md",
+    "Sin título.canvas",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "006 - 🔗 REFERENCIAS GENERALES/2eb519f89c0152ee9cc6ccc4c789d2c7_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 48680,
+      "exportedPath": "006-🔗-referencias-generales/2eb519f89c0152ee9cc6ccc4c789d2c7_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/9a05dd15a6cb368c4c2e78141f175aaa_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8453,
+      "exportedPath": "006-🔗-referencias-generales/9a05dd15a6cb368c4c2e78141f175aaa_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/9b646228024bd11833e8a957dcbfa78b_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8152,
+      "exportedPath": "006-🔗-referencias-generales/9b646228024bd11833e8a957dcbfa78b_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/54d4d48da35ab9b04c54edab0953e903_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 7077,
+      "exportedPath": "006-🔗-referencias-generales/54d4d48da35ab9b04c54edab0953e903_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/69aa32646f33d7cb18d6d5f81741357d_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 78136,
+      "exportedPath": "006-🔗-referencias-generales/69aa32646f33d7cb18d6d5f81741357d_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/69ff7d1a193371cf5d0374a07f96b6cf_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 47896,
+      "exportedPath": "006-🔗-referencias-generales/69ff7d1a193371cf5d0374a07f96b6cf_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/0949c66b3eb6f0117e80a271850be260_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 10551,
+      "exportedPath": "006-🔗-referencias-generales/0949c66b3eb6f0117e80a271850be260_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/2292cdc287e247005011c77507cdb262_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 9571,
+      "exportedPath": "006-🔗-referencias-generales/2292cdc287e247005011c77507cdb262_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/2975e0a0c47d00cecb1b3f3b55c9c4f9_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 460354,
+      "exportedPath": "006-🔗-referencias-generales/2975e0a0c47d00cecb1b3f3b55c9c4f9_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/5123ae40a31380fa88004a1082d8bd90_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8666,
+      "exportedPath": "006-🔗-referencias-generales/5123ae40a31380fa88004a1082d8bd90_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/809806973ea0a9f581a156711ebde934_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 532840,
+      "exportedPath": "006-🔗-referencias-generales/809806973ea0a9f581a156711ebde934_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/a3b3c29a092d2b7b25dc736881b9cd66_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 10284,
+      "exportedPath": "006-🔗-referencias-generales/a3b3c29a092d2b7b25dc736881b9cd66_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/a93513776db5882dc749bf16f8eef9c6_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8989,
+      "exportedPath": "006-🔗-referencias-generales/a93513776db5882dc749bf16f8eef9c6_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Advanced Slides-20240201191832573.webp": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 36290,
+      "exportedPath": "006-🔗-referencias-generales/advanced-slides-20240201191832573.webp",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Albert Einstein IA.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 532840,
+      "exportedPath": "006-🔗-referencias-generales/albert-einstein-ia.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_2eb519f89c0152ee9cc6ccc4c789d2c7_MD5.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8008,
+      "exportedPath": "006-🔗-referencias-generales/cropped_2eb519f89c0152ee9cc6ccc4c789d2c7_md5.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/cropped_69aa32646f33d7cb18d6d5f81741357d_MD5.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5065,
+      "exportedPath": "006-🔗-referencias-generales/cropped_69aa32646f33d7cb18d6d5f81741357d_md5.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Cropped_2eb519f89c0152ee9cc6ccc4c789d2c7_MD5.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3205,
+      "exportedPath": "006-🔗-referencias-generales/cropped_cropped_2eb519f89c0152ee9cc6ccc4c789d2c7_md5.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_EXPLOSION AZUL ROJO.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 12816,
+      "exportedPath": "006-🔗-referencias-generales/cropped_explosion-azul-rojo.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Hola.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4192,
+      "exportedPath": "006-🔗-referencias-generales/cropped_hola.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Imagen Punto 1 Socialización Lección 1 P3.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6459,
+      "exportedPath": "006-🔗-referencias-generales/cropped_imagen-punto-1-socialización-lección-1-p3.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Cropped_Isaac Newton IA.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3641,
+      "exportedPath": "006-🔗-referencias-generales/cropped_isaac-newton-ia.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/deconstructed.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2806,
+      "exportedPath": "006-🔗-referencias-generales/deconstructed.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/ExcaliBrain Snapshot - Biblioteca.excalidraw.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 54095,
+      "exportedPath": "006-🔗-referencias-generales/excalibrain-snapshot-biblioteca.excalidraw.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/EXPLOSION AZUL ROJO.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1539625,
+      "exportedPath": "006-🔗-referencias-generales/explosion-azul-rojo.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/f9bfcad75efee8fd10eeed52e2cad28e_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 46916,
+      "exportedPath": "006-🔗-referencias-generales/f9bfcad75efee8fd10eeed52e2cad28e_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/f58f427f4ad5bb43560899b3528c7604_MD5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5567,
+      "exportedPath": "006-🔗-referencias-generales/f58f427f4ad5bb43560899b3528c7604_md5.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/ghfghfgh.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 113,
+      "exportedPath": "006-🔗-referencias-generales/ghfghfgh.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Hola.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 12192,
+      "exportedPath": "006-🔗-referencias-generales/hola.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Hola dfhfg.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 311272,
+      "exportedPath": "006-🔗-referencias-generales/hola-dfhfg.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Imagen Punto 1 Socialización Lección 1 P3.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 38608,
+      "exportedPath": "006-🔗-referencias-generales/imagen-punto-1-socialización-lección-1-p3.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Isaac Newton IA.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 526899,
+      "exportedPath": "006-🔗-referencias-generales/isaac-newton-ia.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_201.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 57288,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_201.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_296.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 174078,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_296.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_354.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3281,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_354.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_376.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5539,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_376.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_391.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6380,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_391.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_402.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 73638,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_402.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_414.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 20168,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_414.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_429.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3974,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_429.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_447.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 35369,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_447.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_462.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 15927,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_462.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_483.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 130636,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_483.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_498.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 232168,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_498.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_518.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3799,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_518.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_544.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 206266,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_544.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_562.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 149504,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_562.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_590.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4304,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_590.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_609.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1705,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_609.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_625.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6798,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_625.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_634.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1744,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_634.svg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240201191054_648.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 279017,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191054_648.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted image 20240201191855.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 152794,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240201191855.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted image 20240213172402.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2486,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240213172402.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted image 20240227122147.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 26521,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240227122147.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062126_115.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 811,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240304062126_115.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062526_099.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 155623,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240304062526_099.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062557_140.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 189436,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240304062557_140.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240304062630_162.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 254278,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240304062630_162.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240305164444_648.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 9148,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240305164444_648.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240306085925_808.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 205180,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240306085925_808.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240308085738_687.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 10952,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240308085738_687.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240308090357_650.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 14736,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240308090357_650.jpg",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Pasted Image 20240308091931_890.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 191690,
+      "exportedPath": "006-🔗-referencias-generales/pasted-image-20240308091931_890.png",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Recording 20240307082950.webm": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 67994,
+      "exportedPath": "006-🔗-referencias-generales/recording-20240307082950.webm",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Sin Titulo.excalidraw.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 362,
+      "exportedPath": "006-🔗-referencias-generales/sin-titulo.excalidraw.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Sin Titulo_0.excalidraw.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2961,
+      "exportedPath": "006-🔗-referencias-generales/sin-titulo_0.excalidraw.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Sin Titulo_1.excalidraw.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3505,
+      "exportedPath": "006-🔗-referencias-generales/sin-titulo_1.excalidraw.html",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Socialización P3 L1-20240206215611272.webp": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 44616,
+      "exportedPath": "006-🔗-referencias-generales/socialización-p3-l1-20240206215611272.webp",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Socialización P3 L1-20240206220354179.webp": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 67420,
+      "exportedPath": "006-🔗-referencias-generales/socialización-p3-l1-20240206220354179.webp",
+      "dependencies": []
+    },
+    "006 - 🔗 REFERENCIAS GENERALES/Socialización P3 L1-20240206220411570.webp": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 67420,
+      "exportedPath": "006-🔗-referencias-generales/socialización-p3-l1-20240206220411570.webp",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2610,
+      "exportedPath": "excalidraw/scripts/downloaded/convert-selected-text-elements-to-sticky-notes.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1032,
+      "exportedPath": "excalidraw/scripts/downloaded/convert-selected-text-elements-to-sticky-notes.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2610,
+      "exportedPath": "excalidraw/scripts/downloaded/convert-text-to-link-with-folder-and-alias.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1296,
+      "exportedPath": "excalidraw/scripts/downloaded/convert-text-to-link-with-folder-and-alias.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1111,
+      "exportedPath": "excalidraw/scripts/downloaded/create-new-markdown-file-and-embed-into-active-drawing.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 746,
+      "exportedPath": "excalidraw/scripts/downloaded/create-new-markdown-file-and-embed-into-active-drawing.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 294,
+      "exportedPath": "excalidraw/scripts/downloaded/crop-vintage-mask.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2871,
+      "exportedPath": "excalidraw/scripts/downloaded/crop-vintage-mask.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Darken background color.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 664,
+      "exportedPath": "excalidraw/scripts/downloaded/darken-background-color.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Darken background color.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2013,
+      "exportedPath": "excalidraw/scripts/downloaded/darken-background-color.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 624,
+      "exportedPath": "excalidraw/scripts/downloaded/deconstruct-selected-elements-into-new-drawing.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5942,
+      "exportedPath": "excalidraw/scripts/downloaded/deconstruct-selected-elements-into-new-drawing.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3153,
+      "exportedPath": "excalidraw/scripts/downloaded/elbow-connectors.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 226,
+      "exportedPath": "excalidraw/scripts/downloaded/elbow-connectors.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 16926,
+      "exportedPath": "excalidraw/scripts/downloaded/ellipse-selected-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1938,
+      "exportedPath": "excalidraw/scripts/downloaded/ellipse-selected-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 382,
+      "exportedPath": "excalidraw/scripts/downloaded/excalidraw-collaboration-frame.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 650,
+      "exportedPath": "excalidraw/scripts/downloaded/excalidraw-collaboration-frame.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1010,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-horizontally.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4173,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-horizontally.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2048,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-horizontally-keep-text-centered.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4960,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-horizontally-keep-text-centered.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2046,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-vertically.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4168,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-vertically.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2042,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-vertically-keep-text-centered.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4999,
+      "exportedPath": "excalidraw/scripts/downloaded/expand-rectangles-vertically-keep-text-centered.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6513,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-horizontal-distance-between-centers.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2747,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-horizontal-distance-between-centers.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3452,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-inner-distance.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4481,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-inner-distance.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1098,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-spacing.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2485,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-spacing.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1190,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-vertical-distance.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2492,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-vertical-distance.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5700,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-vertical-distance-between-centers.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2738,
+      "exportedPath": "excalidraw/scripts/downloaded/fixed-vertical-distance-between-centers.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 912,
+      "exportedPath": "excalidraw/scripts/downloaded/folder-note-core-make-current-drawing-a-folder.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 749,
+      "exportedPath": "excalidraw/scripts/downloaded/folder-note-core-make-current-drawing-a-folder.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Golden Ratio.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2054,
+      "exportedPath": "excalidraw/scripts/downloaded/golden-ratio.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Golden Ratio.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 21519,
+      "exportedPath": "excalidraw/scripts/downloaded/golden-ratio.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3691,
+      "exportedPath": "excalidraw/scripts/downloaded/grid-selected-images.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1697,
+      "exportedPath": "excalidraw/scripts/downloaded/grid-selected-images.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1565,
+      "exportedPath": "excalidraw/scripts/downloaded/hardware-eraser-support.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2600,
+      "exportedPath": "excalidraw/scripts/downloaded/hardware-eraser-support.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 865,
+      "exportedPath": "excalidraw/scripts/downloaded/invert-colors.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Invert colors.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2897,
+      "exportedPath": "excalidraw/scripts/downloaded/invert-colors.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Lighten background color.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 274,
+      "exportedPath": "excalidraw/scripts/downloaded/lighten-background-color.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Lighten background color.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2022,
+      "exportedPath": "excalidraw/scripts/downloaded/lighten-background-color.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1228,
+      "exportedPath": "excalidraw/scripts/downloaded/mindmap-connector.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3237,
+      "exportedPath": "excalidraw/scripts/downloaded/mindmap-connector.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2509,
+      "exportedPath": "excalidraw/scripts/downloaded/mindmap-format.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 12807,
+      "exportedPath": "excalidraw/scripts/downloaded/mindmap-format.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1278,
+      "exportedPath": "excalidraw/scripts/downloaded/modify-background-color-opacity.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6657,
+      "exportedPath": "excalidraw/scripts/downloaded/modify-background-color-opacity.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1617,
+      "exportedPath": "excalidraw/scripts/downloaded/normalize-selected-arrows.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3447,
+      "exportedPath": "excalidraw/scripts/downloaded/normalize-selected-arrows.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5984,
+      "exportedPath": "excalidraw/scripts/downloaded/organic-line.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Organic Line.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2437,
+      "exportedPath": "excalidraw/scripts/downloaded/organic-line.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 9811,
+      "exportedPath": "excalidraw/scripts/downloaded/organic-line-legacy.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1707,
+      "exportedPath": "excalidraw/scripts/downloaded/organic-line-legacy.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1146,
+      "exportedPath": "excalidraw/scripts/downloaded/palette-loader.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Palette loader.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 11483,
+      "exportedPath": "excalidraw/scripts/downloaded/palette-loader.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 622,
+      "exportedPath": "excalidraw/scripts/downloaded/pdf-page-text-to-clipboard.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1279,
+      "exportedPath": "excalidraw/scripts/downloaded/pdf-page-text-to-clipboard.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 243,
+      "exportedPath": "excalidraw/scripts/downloaded/relative-font-size-cycle.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1407,
+      "exportedPath": "excalidraw/scripts/downloaded/relative-font-size-cycle.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Rename Image.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1709,
+      "exportedPath": "excalidraw/scripts/downloaded/rename-image.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Rename Image.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1109,
+      "exportedPath": "excalidraw/scripts/downloaded/rename-image.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 279,
+      "exportedPath": "excalidraw/scripts/downloaded/repeat-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5023,
+      "exportedPath": "excalidraw/scripts/downloaded/repeat-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Repeat Texts.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1649,
+      "exportedPath": "excalidraw/scripts/downloaded/repeat-texts.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Repeat Texts.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3389,
+      "exportedPath": "excalidraw/scripts/downloaded/repeat-texts.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 602,
+      "exportedPath": "excalidraw/scripts/downloaded/reverse-arrows.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 914,
+      "exportedPath": "excalidraw/scripts/downloaded/reverse-arrows.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1043,
+      "exportedPath": "excalidraw/scripts/downloaded/scribble-helper.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 14759,
+      "exportedPath": "excalidraw/scripts/downloaded/scribble-helper.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 563,
+      "exportedPath": "excalidraw/scripts/downloaded/select-elements-of-type.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1790,
+      "exportedPath": "excalidraw/scripts/downloaded/select-elements-of-type.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Select Similar Elements.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 285,
+      "exportedPath": "excalidraw/scripts/downloaded/select-similar-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Select Similar Elements.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8570,
+      "exportedPath": "excalidraw/scripts/downloaded/select-similar-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 843,
+      "exportedPath": "excalidraw/scripts/downloaded/set-background-color-of-unclosed-line-object-by-adding-a-shadow-clone.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3322,
+      "exportedPath": "excalidraw/scripts/downloaded/set-background-color-of-unclosed-line-object-by-adding-a-shadow-clone.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1167,
+      "exportedPath": "excalidraw/scripts/downloaded/set-dimensions.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1270,
+      "exportedPath": "excalidraw/scripts/downloaded/set-dimensions.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 182,
+      "exportedPath": "excalidraw/scripts/downloaded/set-font-family.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 756,
+      "exportedPath": "excalidraw/scripts/downloaded/set-font-family.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 297,
+      "exportedPath": "excalidraw/scripts/downloaded/set-grid.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Grid.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1610,
+      "exportedPath": "excalidraw/scripts/downloaded/set-grid.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5401,
+      "exportedPath": "excalidraw/scripts/downloaded/set-link-alias.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2013,
+      "exportedPath": "excalidraw/scripts/downloaded/set-link-alias.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 736,
+      "exportedPath": "excalidraw/scripts/downloaded/set-stroke-width-of-selected-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 881,
+      "exportedPath": "excalidraw/scripts/downloaded/set-stroke-width-of-selected-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 553,
+      "exportedPath": "excalidraw/scripts/downloaded/set-text-alignment.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 701,
+      "exportedPath": "excalidraw/scripts/downloaded/set-text-alignment.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6021,
+      "exportedPath": "excalidraw/scripts/downloaded/slideshow.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Slideshow.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 24863,
+      "exportedPath": "excalidraw/scripts/downloaded/slideshow.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 11379,
+      "exportedPath": "excalidraw/scripts/downloaded/split-ellipse.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 7537,
+      "exportedPath": "excalidraw/scripts/downloaded/split-ellipse.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Split text by lines.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 662,
+      "exportedPath": "excalidraw/scripts/downloaded/split-text-by-lines.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Split text by lines.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1055,
+      "exportedPath": "excalidraw/scripts/downloaded/split-text-by-lines.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text Arch.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 327,
+      "exportedPath": "excalidraw/scripts/downloaded/text-arch.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text Arch.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1659,
+      "exportedPath": "excalidraw/scripts/downloaded/text-arch.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text Aura.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2328,
+      "exportedPath": "excalidraw/scripts/downloaded/text-aura.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text Aura.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2393,
+      "exportedPath": "excalidraw/scripts/downloaded/text-aura.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 685,
+      "exportedPath": "excalidraw/scripts/downloaded/text-to-sticky-notes.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4327,
+      "exportedPath": "excalidraw/scripts/downloaded/text-to-sticky-notes.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3330,
+      "exportedPath": "excalidraw/scripts/downloaded/toggle-grid.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 874,
+      "exportedPath": "excalidraw/scripts/downloaded/toggle-grid.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Uniform size.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1584,
+      "exportedPath": "excalidraw/scripts/downloaded/uniform-size.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Uniform size.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 930,
+      "exportedPath": "excalidraw/scripts/downloaded/uniform-size.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 602,
+      "exportedPath": "excalidraw/scripts/downloaded/zoom-to-fit-selected-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 713,
+      "exportedPath": "excalidraw/scripts/downloaded/zoom-to-fit-selected-elements.html",
+      "dependencies": []
+    },
+    "Advanced Slides.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 19671,
+      "exportedPath": "advanced-slides.html",
+      "dependencies": [
+        "006-🔗-referencias-generales/2975e0a0c47d00cecb1b3f3b55c9c4f9_md5.jpg",
+        "006-🔗-referencias-generales/hola.jpg",
+        "006-🔗-referencias-generales/69ff7d1a193371cf5d0374a07f96b6cf_md5.jpg",
+        "006-🔗-referencias-generales/f9bfcad75efee8fd10eeed52e2cad28e_md5.jpg",
+        "006-🔗-referencias-generales/69aa32646f33d7cb18d6d5f81741357d_md5.jpg",
+        "006-🔗-referencias-generales/a3b3c29a092d2b7b25dc736881b9cd66_md5.jpg",
+        "006-🔗-referencias-generales/9b646228024bd11833e8a957dcbfa78b_md5.jpg",
+        "006-🔗-referencias-generales/2292cdc287e247005011c77507cdb262_md5.jpg",
+        "006-🔗-referencias-generales/a93513776db5882dc749bf16f8eef9c6_md5.jpg",
+        "006-🔗-referencias-generales/0949c66b3eb6f0117e80a271850be260_md5.jpg",
+        "006-🔗-referencias-generales/54d4d48da35ab9b04c54edab0953e903_md5.jpg",
+        "006-🔗-referencias-generales/5123ae40a31380fa88004a1082d8bd90_md5.jpg",
+        "006-🔗-referencias-generales/f58f427f4ad5bb43560899b3528c7604_md5.jpg",
+        "006-🔗-referencias-generales/9a05dd15a6cb368c4c2e78141f175aaa_md5.jpg",
+        "006-🔗-referencias-generales/2eb519f89c0152ee9cc6ccc4c789d2c7_md5.jpg",
+        "006-🔗-referencias-generales/2eb519f89c0152ee9cc6ccc4c789d2c7_md5.jpg"
+      ]
+    },
+    "excalibrain.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 2483,
+      "exportedPath": "excalibrain.html",
+      "dependencies": []
+    },
+    "Hijo 1.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 38,
+      "exportedPath": "hijo-1.html",
+      "dependencies": []
+    },
+    "Padre.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 33105,
+      "exportedPath": "padre.html",
+      "dependencies": []
+    },
+    "Sin título.md": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 335,
+      "exportedPath": "sin-título.html",
+      "dependencies": []
+    },
+    "Sin título.canvas": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 545,
+      "exportedPath": "sin-título.html",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/2975e0a0c47d00cecb1b3f3b55c9c4f9_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 460354,
+      "exportedPath": "006-🔗-referencias-generales/2975e0a0c47d00cecb1b3f3b55c9c4f9_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/hola.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 12192,
+      "exportedPath": "006-🔗-referencias-generales/hola.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/69ff7d1a193371cf5d0374a07f96b6cf_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 47896,
+      "exportedPath": "006-🔗-referencias-generales/69ff7d1a193371cf5d0374a07f96b6cf_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/f9bfcad75efee8fd10eeed52e2cad28e_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 46916,
+      "exportedPath": "006-🔗-referencias-generales/f9bfcad75efee8fd10eeed52e2cad28e_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/69aa32646f33d7cb18d6d5f81741357d_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 78136,
+      "exportedPath": "006-🔗-referencias-generales/69aa32646f33d7cb18d6d5f81741357d_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/a3b3c29a092d2b7b25dc736881b9cd66_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 10284,
+      "exportedPath": "006-🔗-referencias-generales/a3b3c29a092d2b7b25dc736881b9cd66_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/9b646228024bd11833e8a957dcbfa78b_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8152,
+      "exportedPath": "006-🔗-referencias-generales/9b646228024bd11833e8a957dcbfa78b_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/2292cdc287e247005011c77507cdb262_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 9571,
+      "exportedPath": "006-🔗-referencias-generales/2292cdc287e247005011c77507cdb262_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/a93513776db5882dc749bf16f8eef9c6_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8989,
+      "exportedPath": "006-🔗-referencias-generales/a93513776db5882dc749bf16f8eef9c6_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/0949c66b3eb6f0117e80a271850be260_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 10551,
+      "exportedPath": "006-🔗-referencias-generales/0949c66b3eb6f0117e80a271850be260_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/54d4d48da35ab9b04c54edab0953e903_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 7077,
+      "exportedPath": "006-🔗-referencias-generales/54d4d48da35ab9b04c54edab0953e903_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/5123ae40a31380fa88004a1082d8bd90_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8666,
+      "exportedPath": "006-🔗-referencias-generales/5123ae40a31380fa88004a1082d8bd90_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/f58f427f4ad5bb43560899b3528c7604_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5567,
+      "exportedPath": "006-🔗-referencias-generales/f58f427f4ad5bb43560899b3528c7604_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/9a05dd15a6cb368c4c2e78141f175aaa_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 8453,
+      "exportedPath": "006-🔗-referencias-generales/9a05dd15a6cb368c4c2e78141f175aaa_md5.jpg",
+      "dependencies": []
+    },
+    "006-🔗-referencias-generales/2eb519f89c0152ee9cc6ccc4c789d2c7_md5.jpg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 48680,
+      "exportedPath": "006-🔗-referencias-generales/2eb519f89c0152ee9cc6ccc4c789d2c7_md5.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 77777,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 6889,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 89000,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 5881,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 497,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 4634,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1713467099567,
+      "sourceSize": 3387,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
